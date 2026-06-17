@@ -1,0 +1,1090 @@
+{
+  "meta": {
+    "version": "1.0",
+    "created": "2026-06-17",
+    "last_updated": "2026-06-17",
+    "total_ideas": 42
+  },
+  "ideas": [
+    {
+      "id": "idea_001",
+      "title": "Meta Andromeda: чому таргетинг по аудиторії вже не працює",
+      "angle": "Алгоритм читає креатив, а не сегмент. Практичні наслідки для кампаній",
+      "direction": "meta_ads",
+      "cta": "save_share",
+      "format": "carousel",
+      "source": "research_scout",
+      "source_url": "https://jetfuel.agency/metas-2026-algorithm-update-what-andromeda-changed-and-how-to-adapt-your-ads/",
+      "tags": [
+        "meta",
+        "andromeda",
+        "algorithm",
+        "2026"
+      ],
+      "scores": {
+        "simplicity": 7,
+        "originality": 9,
+        "relevance": 10
+      },
+      "total_score": 0,
+      "last_published": "2026-06-17",
+      "publish_count": 1,
+      "status": "ready"
+    },
+    {
+      "id": "idea_002",
+      "title": "CPM виріс на 20% — і що з цим робити прямо зараз",
+      "angle": "Не підвищувати бюджет, а покращувати якість сигналу. Конкретні кроки",
+      "direction": "meta_ads",
+      "cta": "comment_question",
+      "format": "post",
+      "source": "research_scout",
+      "source_url": "https://easyinsights.ai/blog/lead-gen-shifts-profitable-meta-ads-2026/",
+      "tags": [
+        "meta",
+        "cpm",
+        "capi",
+        "signal"
+      ],
+      "scores": {
+        "simplicity": 8,
+        "originality": 8,
+        "relevance": 10
+      },
+      "total_score": 0,
+      "last_published": null,
+      "publish_count": 0,
+      "status": "ready"
+    },
+    {
+      "id": "idea_003",
+      "title": "Lookalike мертвий. ASC — новий стандарт Meta кампаній",
+      "angle": "Порівняння: стара схема vs ASC. Реальні цифри з тестів",
+      "direction": "meta_ads",
+      "cta": "link_bio",
+      "format": "reel",
+      "source": "research_scout",
+      "source_url": "https://jetfuel.agency/metas-2026-algorithm-update-what-andromeda-changed-and-how-to-adapt-your-ads/",
+      "tags": [
+        "meta",
+        "asc",
+        "lookalike",
+        "testing"
+      ],
+      "scores": {
+        "simplicity": 6,
+        "originality": 8,
+        "relevance": 9
+      },
+      "total_score": 0,
+      "last_published": null,
+      "publish_count": 0,
+      "status": "ready"
+    },
+    {
+      "id": "idea_004",
+      "title": "UGC vs продакшн: +55% ROI на TikTok — чому так",
+      "angle": "Дослідження TikAdTools 2026. Чому «знятий на телефон» б'є студійне відео",
+      "direction": "tiktok_ads",
+      "cta": "save_share",
+      "format": "reel",
+      "source": "research_scout",
+      "source_url": "https://tikadtools.com/blog/tiktok-ads-creative/",
+      "tags": [
+        "tiktok",
+        "ugc",
+        "creative",
+        "roi"
+      ],
+      "scores": {
+        "simplicity": 9,
+        "originality": 8,
+        "relevance": 9
+      },
+      "total_score": 0,
+      "last_published": null,
+      "publish_count": 0,
+      "status": "ready"
+    },
+    {
+      "id": "idea_005",
+      "title": "Перші 3 секунди TikTok-відео вирішують все. Ось що туди ставити",
+      "angle": "Конкретні хуки: питання / факт / конфлікт / цифра. Приклади з кейсів",
+      "direction": "tiktok_ads",
+      "cta": "comment_question",
+      "format": "reel",
+      "source": "personal_experience",
+      "source_url": null,
+      "tags": [
+        "tiktok",
+        "hook",
+        "creative",
+        "dta"
+      ],
+      "scores": {
+        "simplicity": 10,
+        "originality": 7,
+        "relevance": 9
+      },
+      "total_score": 0,
+      "last_published": null,
+      "publish_count": 0,
+      "status": "ready"
+    },
+    {
+      "id": "idea_006",
+      "title": "CAPI або пікселя? Чому server-side tracking — не опція, а must",
+      "angle": "Без CAPI Meta отримує неповний сигнал → алгоритм навчається неправильно → дорожчі ліди",
+      "direction": "meta_ads",
+      "cta": "save_share",
+      "format": "carousel",
+      "source": "research_scout",
+      "source_url": "https://easyinsights.ai/blog/lead-gen-shifts-profitable-meta-ads-2026/",
+      "tags": [
+        "meta",
+        "capi",
+        "tracking",
+        "signal"
+      ],
+      "scores": {
+        "simplicity": 6,
+        "originality": 9,
+        "relevance": 10
+      },
+      "total_score": 0,
+      "last_published": null,
+      "publish_count": 0,
+      "status": "ready"
+    },
+    {
+      "id": "idea_007",
+      "title": "Lead form vs Landing page: де вища конверсія в 2026",
+      "angle": "Реальний тест на проекті. Числа, не думки",
+      "direction": "lead_gen",
+      "cta": "comment_question",
+      "format": "post",
+      "source": "personal_experience",
+      "source_url": null,
+      "tags": [
+        "leadgen",
+        "lead_form",
+        "conversion",
+        "zeekr"
+      ],
+      "scores": {
+        "simplicity": 8,
+        "originality": 8,
+        "relevance": 9
+      },
+      "total_score": 0,
+      "last_published": null,
+      "publish_count": 0,
+      "status": "ready"
+    },
+    {
+      "id": "idea_008",
+      "title": "Як вийти з learning phase швидше: оптимізуй на lead form, не на purchase",
+      "angle": "Практика: вище у воронці = більше сигналів = швидше навчання = нижчий CPL",
+      "direction": "meta_ads",
+      "cta": "save_share",
+      "format": "carousel",
+      "source": "research_scout",
+      "source_url": "https://www.modernmarketinginstitute.com/blog/how-to-exit-the-meta-ads-learning-phase-fast-and-start-scaling-profitably-in-2026",
+      "tags": [
+        "meta",
+        "learning_phase",
+        "optimization",
+        "cpl"
+      ],
+      "scores": {
+        "simplicity": 7,
+        "originality": 8,
+        "relevance": 9
+      },
+      "total_score": 0,
+      "last_published": null,
+      "publish_count": 0,
+      "status": "ready"
+    },
+    {
+      "id": "idea_009",
+      "title": "Як я тестую гіпотези: система A/B без злиття бюджету",
+      "angle": "Методологія мульти-гіпотезного тесту. Приклад з реального проекту",
+      "direction": "strategy",
+      "cta": "save_share",
+      "format": "carousel",
+      "source": "personal_experience",
+      "source_url": null,
+      "tags": [
+        "ab_test",
+        "hypothesis",
+        "methodology",
+        "budget"
+      ],
+      "scores": {
+        "simplicity": 8,
+        "originality": 9,
+        "relevance": 8
+      },
+      "total_score": 0,
+      "last_published": null,
+      "publish_count": 0,
+      "status": "ready"
+    },
+    {
+      "id": "idea_010",
+      "title": "TikTok в Німеччині: 24 млн юзерів і ніхто не знає як до них говорити",
+      "angle": "German аудиторія хоче info-rich контент. Без пафосу і зайвих емоцій. Практика DTA",
+      "direction": "tiktok_ads",
+      "cta": "link_bio",
+      "format": "reel",
+      "source": "research_scout",
+      "source_url": "https://www.international-logistics-group.com/us-en/insights/tiktok-advertising-in-europe-161940/",
+      "tags": [
+        "tiktok",
+        "germany",
+        "dta",
+        "diaspora"
+      ],
+      "scores": {
+        "simplicity": 8,
+        "originality": 10,
+        "relevance": 8
+      },
+      "total_score": 0,
+      "last_published": null,
+      "publish_count": 0,
+      "status": "ready"
+    },
+    {
+      "id": "idea_011",
+      "title": "Jobcenter фінансує навчання UX/UI — і ніхто не говорить про це в рекламі",
+      "angle": "Нерозкрита точка болю: UA-іммігранти не знають про можливість. Як будувати офер",
+      "direction": "lead_gen",
+      "cta": "link_bio",
+      "format": "reel",
+      "source": "personal_experience",
+      "source_url": null,
+      "tags": [
+        "dta",
+        "jobcenter",
+        "ukraine",
+        "germany",
+        "uxui"
+      ],
+      "scores": {
+        "simplicity": 9,
+        "originality": 10,
+        "relevance": 9
+      },
+      "total_score": 0,
+      "last_published": null,
+      "publish_count": 0,
+      "status": "ready"
+    },
+    {
+      "id": "idea_012",
+      "title": "Нерухомість в Іспанії через Meta: як таргетувати DACH-інвесторів",
+      "angle": "Специфіка аудиторії. Які сигнали вказують на intent. Яка мова закриває угоди",
+      "direction": "real_estate",
+      "cta": "comment_question",
+      "format": "post",
+      "source": "personal_experience",
+      "source_url": null,
+      "tags": [
+        "spain",
+        "real_estate",
+        "dach",
+        "meta",
+        "investors"
+      ],
+      "scores": {
+        "simplicity": 7,
+        "originality": 9,
+        "relevance": 8
+      },
+      "total_score": 0,
+      "last_published": null,
+      "publish_count": 0,
+      "status": "ready"
+    },
+    {
+      "id": "idea_013",
+      "title": "Dynamic Creative в Meta: як правильно налаштувати для lead gen",
+      "angle": "Налаштування на рівні Ad Set, max зображень + 2 варіанти тексту. Покроково",
+      "direction": "meta_ads",
+      "cta": "save_share",
+      "format": "carousel",
+      "source": "research_scout",
+      "source_url": "https://www.socialmediaexaminer.com/facebook-ad-algorithm-changes-for-2026-what-marketers-need-to-know/",
+      "tags": [
+        "meta",
+        "dynamic_creative",
+        "lead_gen",
+        "setup"
+      ],
+      "scores": {
+        "simplicity": 7,
+        "originality": 7,
+        "relevance": 8
+      },
+      "total_score": 0,
+      "last_published": null,
+      "publish_count": 0,
+      "status": "ready"
+    },
+    {
+      "id": "idea_014",
+      "title": "Воронка Zeekr: lead form → Telegram → тест-драйв. Що дало результат",
+      "angle": "Реальний кейс. CTR, CPL, конверсія по етапах. Що змінили і чому",
+      "direction": "lead_gen",
+      "cta": "comment_question",
+      "format": "carousel",
+      "source": "personal_experience",
+      "source_url": null,
+      "tags": [
+        "zeekr",
+        "funnel",
+        "telegram",
+        "leadgen",
+        "ev"
+      ],
+      "scores": {
+        "simplicity": 8,
+        "originality": 10,
+        "relevance": 8
+      },
+      "total_score": 0,
+      "last_published": null,
+      "publish_count": 0,
+      "status": "ready"
+    },
+    {
+      "id": "idea_015",
+      "title": "Advantage+ або ручна структура: коли і що вибирати",
+      "angle": "Правило 50 конверсій/тиждень. Якщо менше — ASC шкодить. Де межа",
+      "direction": "meta_ads",
+      "cta": "comment_question",
+      "format": "post",
+      "source": "research_scout",
+      "source_url": "https://www.involvedigital.com/insights/meta-ads-b2b-lead-generation-strategy",
+      "tags": [
+        "meta",
+        "advantage_plus",
+        "asc",
+        "structure"
+      ],
+      "scores": {
+        "simplicity": 7,
+        "originality": 8,
+        "relevance": 9
+      },
+      "total_score": 0,
+      "last_published": null,
+      "publish_count": 0,
+      "status": "ready"
+    },
+    {
+      "id": "idea_016",
+      "title": "Електромобілі в Україні: хто реально купує і як до них дотягнутись",
+      "angle": "Портрет покупця Zeekr. Tier 1 vs UAE: що показав A/B тест",
+      "direction": "lead_gen",
+      "cta": "save_share",
+      "format": "carousel",
+      "source": "personal_experience",
+      "source_url": null,
+      "tags": [
+        "zeekr",
+        "ev",
+        "ukraine",
+        "targeting",
+        "ab_test"
+      ],
+      "scores": {
+        "simplicity": 8,
+        "originality": 10,
+        "relevance": 7
+      },
+      "total_score": 0,
+      "last_published": null,
+      "publish_count": 0,
+      "status": "ready"
+    },
+    {
+      "id": "idea_017",
+      "title": "SendPulse + UTM: як побудувати email-воронку з чіткою аналітикою",
+      "angle": "Структура серії листів + UTM-логіка. Що відстежувати і в якому звіті",
+      "direction": "email_marketing",
+      "cta": "save_share",
+      "format": "carousel",
+      "source": "personal_experience",
+      "source_url": null,
+      "tags": [
+        "email",
+        "sendpulse",
+        "utm",
+        "analytics"
+      ],
+      "scores": {
+        "simplicity": 7,
+        "originality": 8,
+        "relevance": 8
+      },
+      "total_score": 0,
+      "last_published": null,
+      "publish_count": 0,
+      "status": "ready"
+    },
+    {
+      "id": "idea_018",
+      "title": "Чому я не рекламую курс — я рекламую стабільність",
+      "angle": "Різниця в офері: курс → невизначеність, стабільна робота → бажання. Психологія UA-аудиторії",
+      "direction": "strategy",
+      "cta": "comment_question",
+      "format": "post",
+      "source": "personal_experience",
+      "source_url": null,
+      "tags": [
+        "offer",
+        "psychology",
+        "stability",
+        "ukraine",
+        "dta"
+      ],
+      "scores": {
+        "simplicity": 9,
+        "originality": 10,
+        "relevance": 9
+      },
+      "total_score": 0,
+      "last_published": null,
+      "publish_count": 0,
+      "status": "ready"
+    },
+    {
+      "id": "idea_019",
+      "title": "HeyGen vs Synthesia: що вибрати для UA-ринку",
+      "angle": "Порівняння по якості голосу, UA-мові, ціні, швидкості. Практика з DTA",
+      "direction": "tools",
+      "cta": "comment_question",
+      "format": "post",
+      "source": "personal_experience",
+      "source_url": null,
+      "tags": [
+        "heygen",
+        "synthesia",
+        "ai_video",
+        "tools"
+      ],
+      "scores": {
+        "simplicity": 9,
+        "originality": 9,
+        "relevance": 8
+      },
+      "total_score": 0,
+      "last_published": null,
+      "publish_count": 0,
+      "status": "ready"
+    },
+    {
+      "id": "idea_020",
+      "title": "Як я пишу офер: від болю → до рішення → до дії за 3 кроки",
+      "angle": "Фреймворк написання оферу. Приклад до/після на реальному тексті",
+      "direction": "copywriting",
+      "cta": "save_share",
+      "format": "carousel",
+      "source": "personal_experience",
+      "source_url": null,
+      "tags": [
+        "offer",
+        "copywriting",
+        "framework",
+        "pain"
+      ],
+      "scores": {
+        "simplicity": 9,
+        "originality": 8,
+        "relevance": 8
+      },
+      "total_score": 0,
+      "last_published": null,
+      "publish_count": 0,
+      "status": "ready"
+    },
+    {
+      "id": "idea_021",
+      "title": "5 ознак що твій рекламний акаунт деградує (і як це зупинити)",
+      "angle": "Сигнали: CPM росте, CTR падає, частота висока. Чекліст і дії",
+      "direction": "meta_ads",
+      "cta": "save_share",
+      "format": "carousel",
+      "source": "personal_experience",
+      "source_url": null,
+      "tags": [
+        "meta",
+        "account_health",
+        "cpm",
+        "ctr",
+        "frequency"
+      ],
+      "scores": {
+        "simplicity": 9,
+        "originality": 7,
+        "relevance": 9
+      },
+      "total_score": 0,
+      "last_published": null,
+      "publish_count": 0,
+      "status": "ready"
+    },
+    {
+      "id": "idea_022",
+      "title": "Real estate lead gen: чому дешевий лід = найдорожча помилка",
+      "angle": "Якість vs кількість лідів. Як фільтрувати intent на рівні форми. Іспанський кейс",
+      "direction": "real_estate",
+      "cta": "comment_question",
+      "format": "post",
+      "source": "personal_experience",
+      "source_url": null,
+      "tags": [
+        "real_estate",
+        "lead_quality",
+        "spain",
+        "form"
+      ],
+      "scores": {
+        "simplicity": 8,
+        "originality": 8,
+        "relevance": 7
+      },
+      "total_score": 0,
+      "last_published": null,
+      "publish_count": 0,
+      "status": "ready"
+    },
+    {
+      "id": "idea_023",
+      "title": "Як написати скрипт для AI-актора щоб він не звучав як робот",
+      "angle": "Правила живого скрипту: пауза, розмовні конструкції, уникати підрядних речень. Приклади",
+      "direction": "copywriting",
+      "cta": "save_share",
+      "format": "post",
+      "source": "personal_experience",
+      "source_url": null,
+      "tags": [
+        "ai_video",
+        "script",
+        "heygen",
+        "copywriting"
+      ],
+      "scores": {
+        "simplicity": 9,
+        "originality": 10,
+        "relevance": 8
+      },
+      "total_score": 0,
+      "last_published": null,
+      "publish_count": 0,
+      "status": "ready"
+    },
+    {
+      "id": "idea_024",
+      "title": "Telegram + Meta: як будувати прогрів між рекламою і продажем",
+      "angle": "Чому просто lead form → дзвінок не конвертує. Telegram як середній етап воронки",
+      "direction": "lead_gen",
+      "cta": "comment_question",
+      "format": "carousel",
+      "source": "personal_experience",
+      "source_url": null,
+      "tags": [
+        "telegram",
+        "meta",
+        "funnel",
+        "warmup"
+      ],
+      "scores": {
+        "simplicity": 8,
+        "originality": 9,
+        "relevance": 8
+      },
+      "total_score": 0,
+      "last_published": null,
+      "publish_count": 0,
+      "status": "ready"
+    },
+    {
+      "id": "idea_025",
+      "title": "Павло Антонов метод: гіпотеза → тест → дані → масштаб",
+      "angle": "Як я адаптував цей підхід під свої проекти. Що змінилось в результатах",
+      "direction": "strategy",
+      "cta": "save_share",
+      "format": "carousel",
+      "source": "personal_experience",
+      "source_url": "https://www.instagram.com/antonov.marketing/",
+      "tags": [
+        "methodology",
+        "strategy",
+        "testing",
+        "scale"
+      ],
+      "scores": {
+        "simplicity": 8,
+        "originality": 9,
+        "relevance": 8
+      },
+      "total_score": 0,
+      "last_published": null,
+      "publish_count": 0,
+      "status": "ready"
+    },
+    {
+      "id": "idea_026",
+      "title": "Що я перевіряю перед запуском будь-якої кампанії: 10-пунктний чекліст",
+      "angle": "Пікселя, CAPI, аудиторії, структура, бюджет, офер, креатив — швидка перевірка",
+      "direction": "meta_ads",
+      "cta": "save_share",
+      "format": "carousel",
+      "source": "personal_experience",
+      "source_url": null,
+      "tags": [
+        "meta",
+        "checklist",
+        "launch",
+        "setup"
+      ],
+      "scores": {
+        "simplicity": 10,
+        "originality": 7,
+        "relevance": 8
+      },
+      "total_score": 0,
+      "last_published": null,
+      "publish_count": 0,
+      "status": "ready"
+    },
+    {
+      "id": "idea_027",
+      "title": "Carousel vs Reel в Meta: що дає нижчий CPL для lead gen",
+      "angle": "Тест на реальному проекті. Коли кожен формат виграє і чому",
+      "direction": "meta_ads",
+      "cta": "comment_question",
+      "format": "post",
+      "source": "personal_experience",
+      "source_url": null,
+      "tags": [
+        "meta",
+        "carousel",
+        "reel",
+        "format",
+        "cpl"
+      ],
+      "scores": {
+        "simplicity": 8,
+        "originality": 8,
+        "relevance": 8
+      },
+      "total_score": 0,
+      "last_published": null,
+      "publish_count": 0,
+      "status": "ready"
+    },
+    {
+      "id": "idea_028",
+      "title": "Як UX/UI дизайнер заробляє в Німеччині: реальні цифри",
+      "angle": "Зарплати, попит, портфоліо. Що потрібно починаючи з нуля (для DTA-аудиторії)",
+      "direction": "lead_gen",
+      "cta": "link_bio",
+      "format": "reel",
+      "source": "personal_experience",
+      "source_url": null,
+      "tags": [
+        "dta",
+        "uxui",
+        "germany",
+        "salary",
+        "career"
+      ],
+      "scores": {
+        "simplicity": 10,
+        "originality": 8,
+        "relevance": 9
+      },
+      "total_score": 0,
+      "last_published": null,
+      "publish_count": 0,
+      "status": "ready"
+    },
+    {
+      "id": "idea_029",
+      "title": "Іспанія: чому інвестори з Німеччини купують нерухомість саме тут",
+      "angle": "Логіка DACH-інвестора: клімат, ціна, стабільність. Як це вплітати в рекламний текст",
+      "direction": "real_estate",
+      "cta": "link_bio",
+      "format": "carousel",
+      "source": "research_scout",
+      "source_url": "https://www.privyr.com/blog/practical-tips-to-generate-real-estate-leads-in-spain/",
+      "tags": [
+        "spain",
+        "real_estate",
+        "dach",
+        "investment"
+      ],
+      "scores": {
+        "simplicity": 8,
+        "originality": 9,
+        "relevance": 8
+      },
+      "total_score": 0,
+      "last_published": null,
+      "publish_count": 0,
+      "status": "ready"
+    },
+    {
+      "id": "idea_030",
+      "title": "Чому я не дивлюсь на CTR і що мене реально цікавить",
+      "angle": "CTR — метрика марнославства. Які метрики реально показують здоров'я кампанії",
+      "direction": "strategy",
+      "cta": "comment_question",
+      "format": "post",
+      "source": "personal_experience",
+      "source_url": null,
+      "tags": [
+        "metrics",
+        "ctr",
+        "kpi",
+        "strategy"
+      ],
+      "scores": {
+        "simplicity": 9,
+        "originality": 8,
+        "relevance": 8
+      },
+      "total_score": 0,
+      "last_published": null,
+      "publish_count": 0,
+      "status": "ready"
+    },
+    {
+      "id": "idea_031",
+      "title": "Як Advantage+ руйнує дрібні бюджети і що з цим робити",
+      "angle": "ASC потребує 50+ конверсій/тиждень. Нижче — алгоритм гуляє, бюджет горить",
+      "direction": "meta_ads",
+      "cta": "save_share",
+      "format": "post",
+      "source": "research_scout",
+      "source_url": "https://www.involvedigital.com/insights/meta-ads-b2b-lead-generation-strategy",
+      "tags": [
+        "meta",
+        "asc",
+        "budget",
+        "small_business"
+      ],
+      "scores": {
+        "simplicity": 8,
+        "originality": 7,
+        "relevance": 9
+      },
+      "total_score": 0,
+      "last_published": null,
+      "publish_count": 0,
+      "status": "ready"
+    },
+    {
+      "id": "idea_032",
+      "title": "3 типи контенту що продають без продажу в соціальних мережах",
+      "angle": "Навчальний / провокативний / кейсовий. Як чергувати і навіщо",
+      "direction": "strategy",
+      "cta": "save_share",
+      "format": "carousel",
+      "source": "personal_experience",
+      "source_url": null,
+      "tags": [
+        "content",
+        "strategy",
+        "social",
+        "types"
+      ],
+      "scores": {
+        "simplicity": 9,
+        "originality": 7,
+        "relevance": 8
+      },
+      "total_score": 0,
+      "last_published": null,
+      "publish_count": 0,
+      "status": "ready"
+    },
+    {
+      "id": "idea_033",
+      "title": "TikTok Spark Ads: чому нативна реклама б'є звичайну",
+      "angle": "Механіка: boost реального поста vs окрема реклама. Кейс + цифри",
+      "direction": "tiktok_ads",
+      "cta": "link_bio",
+      "format": "reel",
+      "source": "research_scout",
+      "source_url": "https://tikadtools.com/blog/tiktok-ads-creative/",
+      "tags": [
+        "tiktok",
+        "spark_ads",
+        "native",
+        "creative"
+      ],
+      "scores": {
+        "simplicity": 8,
+        "originality": 8,
+        "relevance": 8
+      },
+      "total_score": 0,
+      "last_published": null,
+      "publish_count": 0,
+      "status": "ready"
+    },
+    {
+      "id": "idea_034",
+      "title": "Email-маркетинг не мертвий: ось що дало open rate 42% на Zeekr",
+      "angle": "Сегментація + персоналізація + правильний час відправки. Конкретна механіка",
+      "direction": "email_marketing",
+      "cta": "comment_question",
+      "format": "post",
+      "source": "personal_experience",
+      "source_url": null,
+      "tags": [
+        "email",
+        "open_rate",
+        "zeekr",
+        "segmentation"
+      ],
+      "scores": {
+        "simplicity": 8,
+        "originality": 9,
+        "relevance": 8
+      },
+      "total_score": 0,
+      "last_published": null,
+      "publish_count": 0,
+      "status": "ready"
+    },
+    {
+      "id": "idea_035",
+      "title": "Як виглядає мій звіт клієнту: структура і що туди входить",
+      "angle": "Telegram-формат, ключові KPI, висновки, наступні кроки. Шаблон для повторення",
+      "direction": "strategy",
+      "cta": "save_share",
+      "format": "carousel",
+      "source": "personal_experience",
+      "source_url": null,
+      "tags": [
+        "reporting",
+        "client",
+        "kpi",
+        "telegram"
+      ],
+      "scores": {
+        "simplicity": 9,
+        "originality": 9,
+        "relevance": 7
+      },
+      "total_score": 0,
+      "last_published": null,
+      "publish_count": 0,
+      "status": "ready"
+    },
+    {
+      "id": "idea_036",
+      "title": "Reddit Ads в 2026: $625M виручки і чому маркетологи досі ігнорують",
+      "angle": "Дослідження 150k реклам. CTR, CPC, нативний стиль — що реально працює",
+      "direction": "paid_social",
+      "cta": "comment_question",
+      "format": "post",
+      "source": "research_scout",
+      "source_url": "https://ppc.land/reddits-2026-ad-creative-study-what-actually-moves-conversion-rates/",
+      "tags": [
+        "reddit",
+        "paid_social",
+        "2026",
+        "creative"
+      ],
+      "scores": {
+        "simplicity": 7,
+        "originality": 10,
+        "relevance": 7
+      },
+      "total_score": 0,
+      "last_published": null,
+      "publish_count": 0,
+      "status": "ready"
+    },
+    {
+      "id": "idea_037",
+      "title": "Фотограф в UA що хоче змінити кар'єру: як я б до нього звернувся",
+      "angle": "Психографія аудиторії DTA. Болі, страхи, бажання. Приклад повного офера",
+      "direction": "copywriting",
+      "cta": "comment_question",
+      "format": "post",
+      "source": "personal_experience",
+      "source_url": null,
+      "tags": [
+        "dta",
+        "copywriting",
+        "audience",
+        "photographer"
+      ],
+      "scores": {
+        "simplicity": 9,
+        "originality": 9,
+        "relevance": 8
+      },
+      "total_score": 0,
+      "last_published": null,
+      "publish_count": 0,
+      "status": "ready"
+    },
+    {
+      "id": "idea_038",
+      "title": "Smart Bidding потребує 100+ конверсій на місяць. Що робити якщо менше",
+      "angle": "Ручні ставки vs автоматика при дефіциті конверсій. Коли перемикатись і як",
+      "direction": "strategy",
+      "cta": "save_share",
+      "format": "carousel",
+      "source": "research_scout",
+      "source_url": "https://improvado.io/blog/ppc-trends",
+      "tags": [
+        "bidding",
+        "smart_bidding",
+        "conversions",
+        "ppc"
+      ],
+      "scores": {
+        "simplicity": 7,
+        "originality": 7,
+        "relevance": 8
+      },
+      "total_score": 0,
+      "last_published": null,
+      "publish_count": 0,
+      "status": "ready"
+    },
+    {
+      "id": "idea_039",
+      "title": "Що означає 'professionally authentic' і чому це майбутнє TikTok контенту",
+      "angle": "Не студійне і не аматорське. Третій формат що виграє. Конкретні приклади",
+      "direction": "tiktok_ads",
+      "cta": "save_share",
+      "format": "reel",
+      "source": "research_scout",
+      "source_url": "https://almcorp.com/blog/tiktok-ads-guide-2026-creator-economy-opportunity/",
+      "tags": [
+        "tiktok",
+        "content",
+        "authentic",
+        "format"
+      ],
+      "scores": {
+        "simplicity": 9,
+        "originality": 9,
+        "relevance": 8
+      },
+      "total_score": 0,
+      "last_published": null,
+      "publish_count": 0,
+      "status": "ready"
+    },
+    {
+      "id": "idea_040",
+      "title": "Воронка для нерухомості в Іспанії: від ліда до угоди",
+      "angle": "Структура: lead form → каталог → кол → показ. Де найбільше губляться ліди і чому",
+      "direction": "real_estate",
+      "cta": "save_share",
+      "format": "carousel",
+      "source": "personal_experience",
+      "source_url": null,
+      "tags": [
+        "spain",
+        "real_estate",
+        "funnel",
+        "conversion"
+      ],
+      "scores": {
+        "simplicity": 8,
+        "originality": 9,
+        "relevance": 8
+      },
+      "total_score": 0,
+      "last_published": null,
+      "publish_count": 0,
+      "status": "ready"
+    },
+    {
+      "id": "idea_041",
+      "title": "[Scout 2026-06-17] Березень 2026: CPM зріс на 15-40% через AI-апдейт Meta — хто підвищив ",
+      "angle": "Березень 2026: CPM зріс на 15-40% через AI-апдейт Meta — хто підвищив бюджет без розуміння причини — погіршив результат",
+      "direction": "meta_ads",
+      "cta": "save_share",
+      "format": "post",
+      "source": "research_scout",
+      "source_url": "https://www.digitalapplied.com/blog/meta-ads-performance-dropped-march-2026-ai-algorithm-changes",
+      "tags": [
+        "scout",
+        "research",
+        "2026-06"
+      ],
+      "scores": {
+        "simplicity": 7,
+        "originality": 9,
+        "relevance": 9
+      },
+      "total_score": 0,
+      "last_published": null,
+      "publish_count": 0,
+      "status": "ready"
+    },
+    {
+      "id": "idea_042",
+      "title": "[Scout 2026-06-17] Real Estate Meta 2026: server-side tracking (CAPI) обов'язковий, lead ",
+      "angle": "Real Estate Meta 2026: server-side tracking (CAPI) обов'язковий, lead form + carousel + відео-тур як зв'язка",
+      "direction": "meta_ads",
+      "cta": "save_share",
+      "format": "post",
+      "source": "research_scout",
+      "source_url": "https://stape.io/blog/real-estate-facebook-ads",
+      "tags": [
+        "scout",
+        "research",
+        "2026-06"
+      ],
+      "scores": {
+        "simplicity": 7,
+        "originality": 8,
+        "relevance": 8
+      },
+      "total_score": 0,
+      "last_published": null,
+      "publish_count": 0,
+      "status": "ready"
+    }
+  ],
+  "publish_log": [
+    {
+      "date": "2026-06-17",
+      "idea_id": "idea_001",
+      "title": "Meta Andromeda: чому таргетинг по аудиторії вже не працює",
+      "direction": "meta_ads",
+      "format": "carousel",
+      "cta": "save_share",
+      "platform": "instagram"
+    }
+  ],
+  "direction_cooldowns": {
+    "meta_ads": "2026-06-17"
+  },
+  "cta_cooldowns": {
+    "save_share": "2026-06-17"
+  },
+  "rules": {
+    "direction_cooldown_days": 4,
+    "cta_cooldown_days": 2,
+    "topic_repeat_days": 30,
+    "min_score_to_show": 50,
+    "top_n": 5
+  }
+}
